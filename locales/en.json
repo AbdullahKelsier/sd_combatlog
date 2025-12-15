@@ -1,0 +1,13 @@
+{
+    "command_help": "Shows disconnected players in your area.",
+
+    "combatlog_title": "Combat Log",
+    "combatlog_found_count": "**%s disconnections** were **found** in your area (%sm) in the last %ss.",
+    "combatlog_enabled": "Display of disconnected players in area **enabled**.",
+    "combatlog_disabled": "Display of disconnected players in area **disabled**.",
+
+    "combatlog_info_name": "%s - disconnected!",
+    "combatlog_info_reason": "Reason: %s",
+    "combatlog_info_time": "Time: %s",
+    "combatlog_info_elapsed": "Ago: %ss"
+}

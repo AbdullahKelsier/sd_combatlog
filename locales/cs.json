@@ -1,0 +1,13 @@
+{
+    "command_help": "Zobrazí odpojené hráče ve tvém okolí.",
+
+    "combatlog_title": "Combat Log",
+    "combatlog_found_count": "Ve tvém okolí (%sm) bylo **nalezeno %s odpojení** za posledních %ss.",
+    "combatlog_enabled": "Zobrazení odpojených hráčů v okolí **zapnuto**.",
+    "combatlog_disabled": "Zobrazení odpojených hráčů v okolí **vypnuto**.",
+
+    "combatlog_info_name": "%s - se odpojil!",
+    "combatlog_info_reason": "Důvod: %s",
+    "combatlog_info_time": "Čas: %s",
+    "combatlog_info_elapsed": "Před: %ss"
+}
